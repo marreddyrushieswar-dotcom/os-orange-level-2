@@ -1,8 +1,8 @@
 # PES-VCS Lab Report
 
-**Name:** G Sai Hemanth  
-**SRN:** PES1UG24AM101  
-**GitHub Repository:** https://github.com/GSAIHEMANTH279/PES1UG24AM101-pes-vcs  
+**Name:** M Rushiesear Reddy
+**SRN:** PES1UG24AM158 
+**GitHub Repository:**  
 
 ---
 
